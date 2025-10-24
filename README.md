@@ -67,12 +67,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sumitKcs/sumitKcs/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TheKumaara/TheKumaara/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sumitKcs/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/TheKumaara/count.svg?"  />
 </div>
 
 ###
