@@ -71,8 +71,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TheKumaara/count.svg?"  />
-</div>
+![Profile views](https://counter.kuber.studio/TheKumaara/hacker/count.svg)
 
 ###
